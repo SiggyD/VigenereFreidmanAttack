@@ -1,4 +1,4 @@
-# vigenereFreidmanAttack
+# VigenereFreidmanAttack
 A python implementation of the Freidman attack on the vignere cipher.
 The default keylength is set to 36.
 
